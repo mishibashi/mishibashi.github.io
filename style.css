@@ -7,25 +7,35 @@ section {
   -webkit-flex: 1 0 300px;
   margin: 10px;
   padding: 10px;
-  border: 1px solid black;
+  border: 1px solid blue;
   background-color: lightgreen;
 }
-h1 {
-  font-size: 5em;
+
+h1{
+  font-size: 500%
 }
+
 p {
   font-family: "ＭSP　ゴシック",sans-serif;
+  font-size: 200%
 }
 
 section#hobby {
-  background-color: orange;
+  background-color: lightgreen;
 }
 h1 {
-  text-shadow: 5px 5px 5px black;
+  text-shadow: 5px 5px 5px blue;
 }
 section {
   border: solid 5px red;
 }
 section {
   border-radius: 30px;
+}
+li{
+  font-family: "ＭSP　ゴシック",sans-serif;
+  font-size: 200%
+}
+h2{
+  color: blue
 }
